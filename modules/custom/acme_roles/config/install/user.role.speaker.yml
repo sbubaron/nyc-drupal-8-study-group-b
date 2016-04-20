@@ -1,8 +1,8 @@
 langcode: en
 status: true
 dependencies: {  }
-id: speaker
-label: speaker
+id: acme_speaker
+label: Acme Speaker
 weight: 3
 is_admin: null
 permissions: {  }
